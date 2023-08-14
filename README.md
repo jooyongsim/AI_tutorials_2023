@@ -5,11 +5,7 @@
 ## ANN
 [Regression & Classification](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/01_ANN.ipynb)
 
-[Stochastic and Mini-batch Gradient Descent](https://i-systems.github.io/teaching/DL/iNotes_tf2/03_GD_tf2.html)
-
-[Overfitting](https://i-systems.github.io/teaching/DL/iNotes_tf2/04_Overfitting_tf2.html)
-
-[Artificial Neural Networks (ANN)](https://i-systems.github.io/teaching/DL/iNotes_tf2/05_ANN_01_tf2.html))
+[Artificial Neural Networks (ANN)](https://i-systems.github.io/teaching/DL/iNotes_tf2/05_ANN_01_tf2.html)
 
 [ANN with MNIST](https://i-systems.github.io/teaching/DL/iNotes_tf2/05_ANN_03_tf2.html)
 
