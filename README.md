@@ -3,6 +3,8 @@
 출처: [포항공대 이승철교수님 연구실](https://iai.postech.ac.kr/teaching/deep-learning)
 
 ## ANN
+[Regression & Classification](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/01_ANN.ipynb)
+
 [Stochastic and Mini-batch Gradient Descent](https://i-systems.github.io/teaching/DL/iNotes_tf2/03_GD_tf2.html)
 
 [Overfitting](https://i-systems.github.io/teaching/DL/iNotes_tf2/04_Overfitting_tf2.html)
