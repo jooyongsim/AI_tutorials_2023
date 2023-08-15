@@ -3,21 +3,10 @@
 출처: [포항공대 이승철교수님 연구실](https://iai.postech.ac.kr/teaching/deep-learning)
 
 ## ANN
-[Regression & Classification](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/01_ANN.ipynb)
-
-[Artificial Neural Networks (ANN)](https://i-systems.github.io/teaching/DL/iNotes_tf2/05_ANN_01_tf2.html)
-
-[ANN with MNIST](https://i-systems.github.io/teaching/DL/iNotes_tf2/05_ANN_03_tf2.html)
-
-[Autoencoder](https://i-systems.github.io/teaching/DL/iNotes_tf2/06_Autoencoder_tf2.html)
+[Artificial Neural Networks (ANN)](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/01_ANN.ipynb)
 
 ## CNN
-[Convolutional Neural Networks (CNN)](https://i-systems.github.io/teaching/DL/iNotes_tf2/07_CNN_tf2.html)
+[Convolutional Neural Networks (CNN)](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/02_CNN.ipynb)
 
-[Transfer Learning](https://i-systems.github.io/teaching/DL/iNotes_tf2/10_Transfer_Learning_tf2.html)
 ## FCN, OD, RNN
-[Fully Convolutional Networks for Segmentation](https://i-systems.github.io/teaching/DL/iNotes_tf2/12_FCN_tf2.html)
-
-[Object Detection](https://i-systems.github.io/teaching/DL/iNotes_tf2/15_Object_Detection_tf2.html)
-
-[Recurrent Neural Network](https://i-systems.github.io/teaching/DL/iNotes_tf2/17_RNN_tf2.html)
+[Fully Convolutional Networks for Segmentation, Object Detection, Recurrent Neural Network](https://github.com/jooyongsim/AI_tutorials_2023/blob/main/notebooks/03_FCN_OD_RNN.ipynb)
